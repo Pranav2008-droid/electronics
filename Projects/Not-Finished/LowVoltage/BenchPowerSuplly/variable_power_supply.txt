@@ -1,0 +1,17 @@
+Essential Parts
+https://www.amazon.in/Potentiometer-knob-Pack-of-5/dp/B08P1CPXN7/ref=sr_1_2?dchild=1&keywords=potentiometer+knobs&qid=1612968429&sr=8-2
+https://robu.in/product/4mm-banana-socket-binding-post-nut-banana-plug-jack-connector-pack-of-2/
+https://www.hnhcart.com/products/banana-plug-connector-pair-red-black-4mm?variant=33294562721880&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic&utm_campaign=gs-2020-11-23&utm_source=google&utm_medium=smart_campaign (*4)
+https://www.electronicscomp.com/24v-10amp-smps-dc-metal-power-supply-nwp-india?gclid=EAIaIQobChMIzZLwxNDf7gIVl66WCh2vhQGLEAQYASABEgIGNfD_BwE
+(960)
+Power for it:
+    for varying the voltage and current:
+      https://www.probots.co.in/dc-dc-buck-converter-step-down-module-constant-current-led-driver-300w-20a.html
+        https://bm-es.com/product/100k-potentiometer-large/
+        (620 rupees)
+
+
+total 1600 rupees
+not absolutely necessary but will make work easier:
+https://www.wish.com/product/5f58a1146dc13c14e0cf9c51?from_ad=goog_shopping&_display_country_code=IN&_force_currency_code=INR&pid=googleadwords_int&c=%7BcampaignId%7D&ad_cid=5f58a1146dc13c14e0cf9c51&ad_cc=IN&ad_lang=EN&ad_curr=INR&ad_price=875.00&fallback_cids=5e788bf8d4e1270f55b1c4f85f28fe68702e820049106d99&hide_login_modal=true&share=web
+

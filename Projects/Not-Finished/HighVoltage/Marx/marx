@@ -1,0 +1,9 @@
+for capacitor:
+  make diy
+
+for resistor:
+  https://buypneumatics.in/Products/details/festo-plastic-tubing-model-pun-8x125-bl-part-no-159666
+  (heat and insert nail)
+
+for spark gap:
+  make your own

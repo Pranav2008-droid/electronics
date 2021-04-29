@@ -1,0 +1,36 @@
+(brovin katcher circuit)
+
+first:
+  watch video - https://www.youtube.com/watch?v=ym-5u4UomRM
+  watch video - https://www.youtube.com/watch?v=Q0lkg9lxz3s
+  see instructable - https://www.instructables.com/Simplest-POWERFUL-Solid-State-Tesla-Coil-SSTC/
+
+
+for mosfet:
+  https://www.electroncomponents.com/IRFP460-MOSFET-N-Channel-Transistor * 2 (in case one fails)
+  for cooling it:
+    https://www.electroncomponents.com/5v-dc-fan-4010-40mm-brushless-fan
+    https://www.electroncomponents.com/Heat-sink-PI51-50mm-TO-220
+
+
+for diode:
+  https://www.roboelements.com/product/10a10-10a-1000v-general-purpose-rectifier-diode/
+
+for tvs diode:
+  https://www.electroncomponents.com/12V-Zener-Diode-1W-IN4742 x2 (put 2 in series)
+
+resistors:
+   choose 
+
+for secondary coil:
+    use a 2 inch 30cm long pipe
+    and 1100 - 1500 turns
+    https://in.rsdelivers.com/product/block/cul-100-028/block-single-core-028mm-diameter-copper-wire-175m/7790700
+    
+    or just use secondary from the SGTC
+
+total:
+1120 rupees if winding another secondary,
+
+400 rupees if not widing another secondary
+
