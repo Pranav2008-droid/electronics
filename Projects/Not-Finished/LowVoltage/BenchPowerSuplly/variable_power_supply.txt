@@ -1,9 +1,17 @@
 Essential Parts
 https://www.factoryforward.com/product/potentiometer-knob/
 https://www.amazon.in/ERH-India-Banana-Connectors-Speaker/dp/B08W397X99/ref=sr_1_9?dchild=1&keywords=banana+plug&qid=1620004815&sr=8-9
-https://www.flipkart.com/storme-borne-450-watts-smps-gold-super-silent-power-supply-psu/p/itm79709db5ca461?pid=PSUFYVQH72XUPNMS&lid=LSTPSUFYVQH72XUPNMS45D724&marketplace=FLIPKART&cmpid=content_psu_8965229628_gmc
-https://www.roboelements.com/product/mbr20200ct-20a-200v-dual-schottky-diode/ * 2
-https://www.electroncomponents.com/Heat-sink-PI51-40mm-TO-220 (2x)
+https://calcuttaelectronics.com/product/alligator-crocodile-clip-pair-red-black/ * 4
+
+
+for the power supply:
+    //https://www.roboelements.com/product/mbr20200ct-20a-200v-dual-schottky-diode/ * 2
+    //https://www.electroncomponents.com/Heat-sink-PI51-40mm-TO-220 (2x)
+    //https://www.flipkart.com/storme-borne-450-watts-smps-gold-super-silent-power-supply-psu/p/itm79709db5ca461?       pid=PSUFYVQH72XUPNMS&lid=LSTPSUFYVQH72XUPNMS45D724&marketplace=FLIPKART&cmpid=content_psu_8965229628_gmc
+    
+    
+
+
 
 (1,036)
 Power for it:
