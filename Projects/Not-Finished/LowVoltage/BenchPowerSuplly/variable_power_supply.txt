@@ -1,7 +1,7 @@
 Essential Parts
 https://www.factoryforward.com/product/potentiometer-knob/
 https://www.amazon.in/ERH-India-Banana-Connectors-Speaker/dp/B08W397X99/ref=sr_1_9?dchild=1&keywords=banana+plug&qid=1620004815&sr=8-9
-https://www.amazon.in/Frontech-PS-0005-Computer-Power-Supply/dp/B08H5M94DR/ref=asc_df_B08H5M94DR/?tag=googleshopdes-21&linkCode=df0&hvadid=396986989113&hvpos=&hvnetw=g&hvrand=8323324178134138099&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1007810&hvtargid=pla-950230155839&psc=1&ext_vrnc=hi
+https://www.flipkart.com/storme-borne-450-watts-smps-gold-super-silent-power-supply-psu/p/itm79709db5ca461?pid=PSUFYVQH72XUPNMS&lid=LSTPSUFYVQH72XUPNMS45D724&marketplace=FLIPKART&cmpid=content_psu_8965229628_gmc
 https://www.roboelements.com/product/mbr20200ct-20a-200v-dual-schottky-diode/ * 2
 https://www.electroncomponents.com/Heat-sink-PI51-40mm-TO-220 (2x)
 
@@ -14,7 +14,7 @@ Power for it:
         (700 rupees)
 
 
-total 1736 rupees
+total 1590 rupees
 not absolutely necessary but will make work easier:
 https://www.wish.com/product/5f58a1146dc13c14e0cf9c51?from_ad=goog_shopping&_display_country_code=IN&_force_currency_code=INR&pid=googleadwords_int&c=%7BcampaignId%7D&ad_cid=5f58a1146dc13c14e0cf9c51&ad_cc=IN&ad_lang=EN&ad_curr=INR&ad_price=875.00&fallback_cids=5e788bf8d4e1270f55b1c4f85f28fe68702e820049106d99&hide_login_modal=true&share=web
 
