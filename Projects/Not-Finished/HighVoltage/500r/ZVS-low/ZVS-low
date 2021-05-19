@@ -1,0 +1,12 @@
+first check the circuit to see if it works the normal way.(https://www.instructables.com/ZVS-Driver/)
+then try out the circuit in this video: https://www.youtube.com/watch?v=1jkrJ8D7Gnc  (basically you just use seperate 12v power supply for the gate of the mosfet to reduce blowing it!)
+
+for high voltage supply:
+    for zvs circuit:
+    https://www.electroncomponents.com/IRFP250-N-Mosfet-International-rectifier * 2
+    https://www.electroncomponents.com/MKP-X2-5UF-J-275V-AC-400V-DC-capacitor x3 (connect in series and experiment)
+    https://robu.in/product/470-ohm-5-watt-wire-wound-resistor/
+    https://www.electroncomponents.com/UF4007-Fast-Recovery-Diode * 2
+    for inductor use a flyback core(the one that has less space for primary coil) and wind wire around it. 
+    (250 rupees)
+
