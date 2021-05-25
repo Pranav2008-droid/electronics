@@ -1,0 +1,10 @@
+then try out the circuit in this video: https://www.youtube.com/watch?v=1jkrJ8D7Gnc  (basically just replicate it with one mosfet, instead of two in parallel)
+
+for high voltage supply:
+    for zvs circuit:
+    https://www.electronicscomp.com/irfp264n-250v-44a-n-channel-power-mosfet-to-247-package * 2
+    https://www.electroncomponents.com/mkp-x2-1uf-J-275v-capacitor x5 (connect in series and experiment)
+    https://www.electroncomponents.com/470e-470ohm-resistance-2W-resistor
+    https://www.electroncomponents.com/UF5408-1000V-3A-Ultra-Fast-Recovery-Diode * 2
+    for inductor use a flyback core(the one that has less space for primary coil) and wind wire around it. 
+    (396 rupees)
