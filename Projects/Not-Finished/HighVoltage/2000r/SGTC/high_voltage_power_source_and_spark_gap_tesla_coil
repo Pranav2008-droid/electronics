@@ -1,6 +1,6 @@
 for tesla coil:
   for capacitor:
-    https://www.electroncomponents.com/0.068uf-1600v-68nf-683k-myler-capacitor-polyester  * 17 (in series)
+    // https://www.electroncomponents.com/0.068uf-1600v-68nf-683k-myler-capacitor-polyester  * 17 (in series) (only if using custom made flyback transformer)
   for secondary coil :
     use a 3-5 inch 25cm long pipe
     and 1000 turns
@@ -10,4 +10,4 @@ for tesla coil:
     first test on small piece of pipe, and then do the whole thing.
     (1570 rupees)
     
-total 1570 rupees
+total 1320 rupees with capacitors or 1150
