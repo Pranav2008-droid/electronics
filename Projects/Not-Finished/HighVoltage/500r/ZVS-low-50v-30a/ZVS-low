@@ -3,10 +3,22 @@ then try out the circuit in this video: https://www.youtube.com/watch?v=1jkrJ8D7
 
 for high voltage supply:
     for zvs circuit:
-https://in.rsdelivers.com/productpage/productpage?stockcode=3275465 * 2
-    https://www.electroncomponents.com/IRFP250-N-Mosfet-International-rectifier * 2
-    https://www.electroncomponents.com/MKP-X2-5UF-J-275V-AC-400V-DC-capacitor x3 (connect in series and experiment)
-    https://www.electroncomponents.com/470e-470ohm-resistance-2W-resistor
-    https://www.electroncomponents.com/UF5408-1000V-3A-Ultra-Fast-Recovery-Diode * 2 
-    (533 rupees)
+    Stuff including gst:
+    https://in.rsdelivers.com/product/wurth-elektronik/74270104/wurth-elektronik-ferrite-ring-toroid-core-for-317/3275465
+    (307 rupees)
+    Stuff excluding gst:
+    https://www.electroncomponents.com/MKP-X2-5UF-J-275V-AC-400V-DC-capacitor
+    electronicscomp.com/irfp250n-200v-30a-n-channel-power-mosfet-to-247-package?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3eyYJbzNDxe7Jsq4SMJw8DnwGC9LMh7V6OZmQ9_zwL92AyyTAAmM5HoaAhngEALw_wcB
+    https://www.electronicscomp.com/470-ohm-2-watt-resistance?gclid=Cj0KCQiA_c-OBhDFARIsAIFg3ezICFLZcc4lwaHNYP8AUhlaOqwmrts0pGS3dAfRE41Ax3Ycl1ewu-QaAguzEALw_wcB
+    https://www.electroncomponents.com/UF5408-1000V-3A-Ultra-Fast-Recovery-Diode
+    (116 rupees)
+
+    Everything including gst:
+    307 + (116 + (18% of 116)
+    307 + (116 + 22)
+    307 + 138
+    445
+
+    total (445 rupees);
+
 
